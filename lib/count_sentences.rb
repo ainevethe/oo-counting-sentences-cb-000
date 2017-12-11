@@ -19,5 +19,6 @@ class String
       self.split
       self.count
     else return false
+    end
   end
 end
